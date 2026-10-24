@@ -18,7 +18,7 @@ An automated, non-intrusive vulnerability mapping tool that bridges Nmap reconna
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/ahmadbuttvu/MapSploit.git](https://github.com/ahmadbuttvu/MapSploit.git)
+git clone https://github.com/ahmadbuttvu/MapSploit.git
 cd MapSploit
 
 # Install required Python libraries
